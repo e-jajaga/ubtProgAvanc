@@ -1,0 +1,6 @@
+d:\personal\documents\visual studio 2013\Projects\UBTconsole\UBTconsole\bin\Debug\UBTconsole.exe.config
+d:\personal\documents\visual studio 2013\Projects\UBTconsole\UBTconsole\bin\Debug\UBTconsole.exe
+d:\personal\documents\visual studio 2013\Projects\UBTconsole\UBTconsole\bin\Debug\UBTconsole.pdb
+d:\personal\documents\visual studio 2013\Projects\UBTconsole\UBTconsole\obj\Debug\UBTconsole.csprojResolveAssemblyReference.cache
+d:\personal\documents\visual studio 2013\Projects\UBTconsole\UBTconsole\obj\Debug\UBTconsole.exe
+d:\personal\documents\visual studio 2013\Projects\UBTconsole\UBTconsole\obj\Debug\UBTconsole.pdb
