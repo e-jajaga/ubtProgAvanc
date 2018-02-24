@@ -1,1 +1,2 @@
 # ubtProgAvanc
+# Test sinkronizimi
